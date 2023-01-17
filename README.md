@@ -1,4 +1,4 @@
-# TG-UserBot
+# userbot
 
 A modular Telegram UserBot for Python which uses the [Telethon][telethon] library. It is made to help you do your usual client tasks without the hassle and also has some additional useful features.
 
@@ -65,7 +65,7 @@ Either submit pull requests or create an issue on here.
 
 ## Copyright & License
 
-- Copyright (C) 2019 - 2020 [Kandarp](https://github.com/kandnub).
+- Copyright (C) 2019 - 2020 [isohmaohot](https://github.com/kandnub).
 - Licensed under the terms of the [GNU General Public License v3.0 or later (GPLv3+)](LICENSE).
 
 [//]: # (Comment)
@@ -75,5 +75,5 @@ Either submit pull requests or create an issue on here.
    [docsbadge]: <https://readthedocs.org/projects/tg-userbot/badge/?version=latest>
    [support]: <https://t.me/tg_userbot_support>
    [redis]: <https://redislabs.com>
-   [heroku-deploy]: <https://heroku.com/deploy?template=https://github.com/isohmaohot/userbot>
+   [heroku-deploy]: <https://heroku.com/deploy?template=https://github.com/isohmaohot/userbot.git/>
    [heroku-guide]: <https://tg-userbot.readthedocs.io/en/latest/basic/heroku.html>
