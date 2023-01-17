@@ -2,7 +2,6 @@
     "name": "TG-UserBot",
     "description": "A modular Telegram UserBot for Python which uses the Telethon library. It is made to help you do your usual client tasks without the hassle and also has some additional useful features.",
     "repository": "https://github.com/kandnub/TG-UserBot/",
-    "logo": "https://i.imgur.com/qctfOGK.png",
     "keywords": ["tg-userbot", "telegram-userbot", "userbot", "python"],
     "success_url": "https://t.me/tg_userbot_support/",
     "stack": "container",

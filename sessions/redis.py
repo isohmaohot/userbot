@@ -62,7 +62,7 @@ class RedisSession(MemorySession):
         self.session_name = (
             session_name
             if isinstance(session_name, str) else
-            session_name.decode()
+            session_update.decode()
         )
         self.redis_connection = redis_connection
         self.sess_prefix = "telethon:session:{}".format(self.session_name)
