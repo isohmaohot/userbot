@@ -25,19 +25,18 @@ A modular Telegram UserBot for Python which uses the [Telethon][telethon] librar
 Clone the repository.
 
 ```sh
-$ git clone https://github.com/kandnub/TG-UserBot/
+$ git clone https://github.com/isohmaohot/userbot.git
 ```
 
 Change the current directory to the cloned one.
 
 ```sh
-$ cd TG-UserBot
+$ cd userbot
 ```
 
 Edit the config either using Nano/Vim or a Text Editor and put your ENV Vars in the same.
 ```sh
-$ nano sample_config.ini
-$ mv sample_config.ini config.ini
+$ nano config.ini
 ```
 
 Install all the requirements using pip.
@@ -76,5 +75,5 @@ Either submit pull requests or create an issue on here.
    [docsbadge]: <https://readthedocs.org/projects/tg-userbot/badge/?version=latest>
    [support]: <https://t.me/tg_userbot_support>
    [redis]: <https://redislabs.com>
-   [heroku-deploy]: <https://heroku.com/deploy?template=https://github.com/kandnub/TG-UserBot>
+   [heroku-deploy]: <https://heroku.com/deploy?template=https://github.com/isohmaohot/userbot>
    [heroku-guide]: <https://tg-userbot.readthedocs.io/en/latest/basic/heroku.html>
